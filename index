@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Tyler Wood - Start Bootstrap Theme</title>
+        <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" />
+        <!-- Font Awesome icons (free version)-->
+        <script src="https://use.fontawesome.com/releases/v6.3.0/js/all.js" crossorigin="anonymous"></script>
+        <!-- Google fonts-->
+        <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" rel="stylesheet" type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet" type="text/css" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+        <!--Final HTML code update: 2:05 PM PST, August 9th, 2025-->
+    </head>
+    <body id="page-top">
+        <!-- Navigation-->
+        <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
+            <a class="navbar-brand js-scroll-trigger" href="#page-top">
+                <span class="d-block d-lg-none">Tyler Wood</span>
+                <span class="d-none d-lg-block"><img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="assets/img/profile.jpg" alt="..." /></span>
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav">
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">About</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#experience">Experience</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#education">Education</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#skills">Skills</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#interests">Interests</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#video">Video</a></li>
+                    <!--Removed "Awards" nav-item"-->
+                </ul>
+            </div>
+        </nav>
+            <!-- About-->
+            <section class="resume-section" id="about">
+                <div class="resume-section-content">
+                    <h1 class="mb-0">
+                        Tyler
+                        <span class="text-primary">Wood</span>
+                    </h1>
+                    <div class="subheading mb-5">
+                        909 New Mexico St - Las Vegas, NV 89005  · 702-294-7776 ·
+                        <a href="mailto:name@email.com">tyler.wood@du.edu</a>
+                    </div>
+                    <p class="lead mb-5">I have been working in libraries for just over four years and have a wealth of experience meeting the needs of my community and our patron base. I am excited to take the next step in my library career and am currently attending the University of Denver's MLIS program.</p>
+                </div>
+            </section>
+            <hr class="m-0" />
+            <!-- Experience-->
+             <!--Trimmed to main two entries on resume-->
+            <section class="resume-section" id="experience">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Experience</h2>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Circulation Assistant</h3>
+                            <div class="subheading mb-3">Boulder City Library District</div>
+                            <p>Working to maximize patron satisfaction via maintaining flow of items from shelf to patron to other consortium libraries, as well as working at the front desk, helping with programming, and assorted other tasks. </p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">July 2021 - present</span></div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Campaign Assistant</h3>
+                            <div class="subheading mb-3">Leukemia and Lymphoma Society, Las Vegas chapter</div>
+                            <p>Working under a fundraising campaign manager to meet fundraising and enrollment goals. Our campaign was focused on youth fundraising in elementary schools and my job was to provide information on how to sign up, materials to enable and facilitate fundraising success, and hold informational assemblies for students and faculty.</p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">September 2018 - March 2020</span></div>
+            </section>
+            <!--Added section to contain descriptive images-->
+            <section>
+                <img src="https://bouldercityreview.com/wp-content/uploads/2023/04/17707028_web1_BCR-Library-1980s-APR27-23.jpg?w=1200" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 1200px; height: 365px; margin: 0px; width: 559px;" alt="Boulder City Library: 80 years of service | Boulder City Review" jsname="kn3ccd">
+                <img src="https://i.ytimg.com/vi/yXlBNpvfbik/maxresdefault.jpg" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 1280px; height: 314px; margin: 0px; width: 558px;" alt="Leukemia and Lymphoma Society: Light The Night Experience" jsname="kn3ccd">
+        <!-- Page Content-->
+        <div class="container-fluid p-0"></section>
+            <hr class="m-0" />
+            <!-- Education-->
+            <section class="resume-section" id="education">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Education</h2>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">University of Denver - Morgridge College of Education</h3>
+                            <div class="subheading mb-3">Masters of Library and Information Science</div>
+                            <div>Estimated graduation date: June 2026</div>
+                            <p>GPA: 3.2</p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">January 2023 - present</span></div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">University of Nevada Las Vegas</h3>
+                            <div class="subheading mb-3">Bachelor of Arts - English</div>
+                            <p>GPA: 3.0</p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">June 2011 - July 2016</span></div>
+                    </div>
+                </div>
+            </section>
+            <hr class="m-0" />
+            <!-- Skills-->
+             <!--Trimmed this section quite a bit, focusing on relevant library skills-->
+            <section class="resume-section" id="skills">
+                <div class="resume-section-content">
+                    <!--I hope trimming down this section to synchronize with my relatively short skills is okay!-->
+                    <h2 class="mb-5">Skills</h2>
+                    <ul class="list-inline dev-icons">
+                        <li class="list-inline-item"><i class="fa-solid fa-book"></i></i></li>
+                        <li class="list-inline-item"><i class="fa-solid fa-bookmark"></i></i></li>
+                        <li class="list-inline-item"><i class="fa-solid fa-book-atlas"></i></i></li>
+                        <li class="list-inline-item"><i class="fa-solid fa-book-bookmark"></i></i></li>
+                    </ul>
+                    <div class="subheading mb-3">Skills</div>
+                    <ul class="fa-ul mb-0">
+                        <li>
+                    <i class="fa-solid fa-book"></i> Experience in the Sierra ILS (Innovative Interfaces)
+                        </li>
+                        <li>
+                    <i class="fa-solid fa-bookmark"></i>Extensive front desk experience  
+                        </li>
+                        <li>
+                    <i class="fa-solid fa-book-atlas"></i>Experience circulating items around a library: pulling holds, handling ILLs, running internal lists    
+                        </li>
+                        <li>
+                    <i class="fa-solid fa-book-bookmark"></i>Experience spot filling for both youth and adult programming   
+                        </li>
+                    </ul>
+                </div>
+            </section>
+            <hr class="m-0" />
+            <!-- Interests-->
+            <section class="resume-section" id="interests">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Interests</h2>
+                    <p>I enjoy tabletop roleplaying games, reading genre fiction of all types, and the trading card game Magic: The Gathering.</p>
+                </div>
+            </section>
+        <!--Omitted Awards and Certifications section-->
+        <hr class="m-0" />
+            <!-- Video-->
+            <section class="resume-section" id="video">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Video</h2>
+                <!--  YouTube Embed Code   -->
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/M-q1nBnWjLg?si=eK56CX7pZ70Uy2eP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                <p>An example of the fundraising work that I used to do with LLS prior to the COVID-19 pandemic.</p>
+                </div>
+            </section>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+    </body>
+</html>
